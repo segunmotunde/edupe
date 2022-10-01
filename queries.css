@@ -1,0 +1,72 @@
+@media (min-width: 980px){
+    nav ul{
+        position: relative;
+        top: unset;
+        right: unset;
+        width: 70%;
+        height: unset;
+        background-color: none;
+        backdrop-filter: none;
+        border: none;
+        flex-direction: row;
+        transition: none;
+    }
+    nav ul button{ 
+        margin-top: unset;
+    }
+    nav aside{
+        display: none;
+    }
+    nav label{
+        width: 13%;
+    }
+    .secondSection .side1, .secondSection .side2, .helpSide2, .helpSide1{
+        width: 45%;
+    }
+    .helpSection .helpSide2, .helpSection .helpSide1{
+        width: 45%;
+    }
+    .sec1, .sec2, .sec3{
+        width: 20em;
+        height: 20em;
+    }
+    .sec1, .sec2{
+        border-right: 2px solid #fff;
+    }
+}
+@media (min-width: 700px) and (max-width:980px){
+    nav ul{
+        position: relative;
+        top: unset;
+        right: unset;
+        width: 70%;
+        height: unset;
+        background-color: none;
+        backdrop-filter: none;
+        border: none;
+        flex-direction: row;
+        transition: none;
+    }
+    nav ul button{ 
+        margin-top: unset;
+    }
+    nav aside{
+        display: none;
+    }
+    nav label{
+        width: 13%;
+    }
+    .secondSection .side1, .secondSection .side2, .helpSide2, .helpSide1{
+        width: 45%;
+    }
+    .helpSection .helpSide2, .helpSection .helpSide1{
+        width: 45%;
+    }
+    .sec1, .sec2, .sec3{
+        width: 20em;
+        height: 20em;
+    }
+    .sec1, .sec2{
+        border-right: 2px solid #fff;
+    }
+}
